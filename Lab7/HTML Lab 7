@@ -1,0 +1,85 @@
+<!doctype html>
+  <html>
+    <head>
+      <link rel="icon" type="image/png" href="index2.png" href="image1.png">
+      <link rel="stlyesheet" href="../css/lb7.css"
+      <title> Lab 7 Flavio </title>
+
+        <style media="screen">
+        .ninja{
+          color: Black;
+          visibility: : hidden;
+        }
+        tr.border_bottom td {
+          border-bottom: 1px solid black;
+        }
+        #pizza{
+          colo: darkred;
+          font-style: italic;
+          font-size: 18px;
+        }
+        h1{
+          color: Teal;
+          font-family: cursive, sans-serif;
+          font-size: 75px;
+        }
+        a{
+          color: green;
+          font-family: fantasy ,serif;
+          font-size: 14px;
+        }
+      body{
+        background-color:Darkblue;
+        }</style>
+    </head>
+    <body style="background-color:#2020A0">
+      <center>
+        <header>
+              <a href="image1.png" alt="this is my banner"> <img src="image1.png" width = "auto"> </a>
+        </header>
+    <h1> QCC/CUNY </h1>
+    <h2> Software Eng. Micro-Credential </h2>
+    <h3> Boot camp </h3>
+    <h4> Lab# 7 </h4>
+    <h5> By Flavio Duran </h5>
+    <h6> 1/9/2020 </h6>
+
+    <table border = 2px style="background-color:lightGray" </table>
+    <th style ="color:CadetBlue;"> Labs 1 & 4 </th>
+    <th style ="color:CadetBlue;"> Labs 2 & 5 </th>
+    <th style ="color:CadetBlue;"> Labs 3 & 6 </th>
+    <tr>
+      <td>
+
+        <a href="Lab 1/html/Lab 1.html" alt="Lab3">Lab 1 <img src="image2.png" width="500" height="auto" /> </a>
+
+      </td>
+      <td>
+        <a href="Lab 2/html/Lab 2.html" alt="Lab3"> Lab 2 <img src="image3.png" width="500" height="auto" /> </a>
+
+    <!--    <h2 class="ninja"lab7> vdskjla;vndaskj;vjdsak;l</h2>-->
+      </td>
+      <td>
+        <a href="Lab 3/html/Lab 3.html" alt="Lab3"> Lab 3  <img src="image5.png" width="500" height="auto" /> </a>
+
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="Lab 4/html/Lab 4.html" alt="Lab3"> Lab 4  <img src="image6.png" width="500" height="auto" /> </a>
+
+      </td>
+      <td>
+        <a href="Lab 5/html/Lab 5.html" alt="Lab3"> Lab 5 <img src="image7.png" width="500" height="auto" /> </a>
+
+      </td>
+      <td>
+        <a href="Lab 6/html/Lab 6.html" alt="Lab3"> <img src="image8.png" width="500" height="auto" /> </a>
+
+      </td>
+  <td>
+  </tr>
+  </table>
+</center>
+    </body>
+  </html>

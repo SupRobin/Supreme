@@ -1,0 +1,52 @@
+<!doctype html>
+  <html>
+    <head>
+      <title> Lab 1 Flavio </title>
+    </head>
+    <body>
+    <h1> QCC/CUNY </h1>
+    <h2> Software Eng. Micro-Credential </h2>
+    <h3> Boot camp </h3>
+    <h4> Lab# 4 </h4>
+    <h5> By Flavio Duran </h5>
+    <h6> 1/4/2020 </h6>
+    <table border = "5" </table>
+    <th> Color names  </th>
+    <th> Hexadecimal </th>
+    <th> RGB </th>
+    <th> Hue </th>
+
+    <tr>
+    <td> Tomato </td>
+    <td> #FF6347 </td>
+    <td> (some 3 numbers) </td>
+    <td style = "width: 50%" bgcolor="#FF6347"> </td>
+  </tr><tr>
+  <td> Teal </td>
+  <td> #FF6347 </td>
+  <td> (0,128,128) </td>
+  <td style = "width: 50%" bgcolor="#008B8B"> </td>
+</tr><tr>
+<td> Coral </td>
+<td> #FF7F50 </td>
+<td> (255,99,71) </td>
+<td style = "width: 50%" bgcolor="#FF7F50"> </td>
+</tr><tr>
+<td> Indian red </td>
+<td> #CD5C5C </td>
+<td> (205,92,92)</td>
+<td style = "width: 50%" bgcolor="#CD5C5C"> </td>
+</tr><tr>
+<td> Cadet Blue </td>
+<td> #5F9EA0 </td>
+<td> (95,158,160) </td>
+<td style = "width: 50%" bgcolor="#5F9EA0"> </td>
+</tr><tr>
+<td> Peach Puff </td>
+<td> #FFDAB9 </td>
+<td> (255,218,185) </td>
+<td style = "width: 50%" bgcolor="#FFDAB9"> </td>
+</tr>
+
+    </body>
+  </html>

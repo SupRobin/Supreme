@@ -1,0 +1,14 @@
+.ninja{
+  color: Black;
+  visibility: : hidden;
+}
+#pizza{
+  colo: darkred;
+  font-style: italic;
+  font-size: 18px;
+}
+a{
+  color: Green;
+  font-family: cursive, sans-serif;
+  font-size: 14px;
+}

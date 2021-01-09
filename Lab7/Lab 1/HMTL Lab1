@@ -1,0 +1,20 @@
+<!doctype html>
+  <html>
+    <head>
+      <title> Lab 1 Flavio </title>
+    </head>
+    <body>
+    <h1> QCC/CUNY </h1>
+    <h2> Software Eng. Micro-Credential </h2>
+    <h3> Boot camp </h3>
+    <h4> Lab# 1 </h4>
+    <h5> By Flavio Duran </h5>
+    <h6> 1/4/2020 </h6>
+    <p> Hi my names is flavio and I love coding because I
+    able to give shape to my thoughts </p>
+    <p align = center> p.s. Im sorry i couldn't make it to your class today
+      there was a scheduling error
+    </p>
+
+    </body>
+  </html>

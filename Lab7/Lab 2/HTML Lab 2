@@ -1,0 +1,21 @@
+<!doctype html>
+  <html>
+    <head>
+      <title> Lab 1 Flavio </title>
+    </head>
+    <body>
+    <h1> QCC/CUNY </h1>
+    <h2> Software Eng. Micro-Credential </h2>
+    <h3> Boot camp </h3>
+    <h4> Lab# 2 </h4>
+    <h5> By Flavio Duran </h5>
+    <h6> 1/6/2020 </h6>
+    <center>
+    <img src = "https://wallpapercave.com/wp/wp1987762.jpg" alt = "This is a drawing" width="800" height="500"> <br>
+      <i> This picture is a picture that has a things in it <i> <br>
+      <strong> this is a strong text example lol </strong> <br>
+      <b> your boy likes going to the gym </b> <br>
+          <em> This is a cute picture </em>
+    </center>
+    </body>
+  </html>
