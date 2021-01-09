@@ -1,0 +1,20 @@
+<!doctype html>
+  <html>
+    <head>
+      <title> Lab 3 Flavio </title>
+    </head>
+    <body>
+    <h1> QCC/CUNY </h1>
+    <h2> Software Eng. Micro-Credential </h2>
+    <h3> Boot camp </h3>
+    <h4> Lab# 3 </h4>
+    <h5> By Flavio Duran </h5>
+    <h6> 1/6/2020 </h6>
+    <h3> this is my Linkedin Acc! </h3>
+    <a href="https://www.linkedin.com/in/flavio-duran-9a0b8a170/"> <img src="https://blog-assets.hootsuite.com/wp-content/uploads/2025/05/linkedin-for-business-9-620x151.png" width="300" height="auto"/>
+      <h3> My school </h3>
+      <a href="https://www.qcc.cuny.edu/"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/61/QueensboroughCC_seal.svg/800px-QueensboroughCC_seal.svg.png" width="300px"/>
+        <h3> This is the link to w3Schools! :D </h3>
+        <a href="https://www.w3schools.com/"> <img src="https://s3.amazonaws.com/impressivewebs/2014-02/w3schools-logo.jpg"/>
+    </body>
+  </html>

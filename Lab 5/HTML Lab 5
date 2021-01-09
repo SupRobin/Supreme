@@ -1,0 +1,121 @@
+<!doctype html>
+  <html>
+    <head>
+      <title> Lab 1 Flavio </title>
+    </head>
+    <body style="background-color:CadetBlue;">
+      <center>
+
+    <h1 style ="color:Violet;"> QCC/CUNY </h1>
+    <h2 style ="color:Purple;"> Software Eng. Micro-Credential </h2>
+    <h3 style ="color:DarkBlue"> Boot camp </h3>
+    <h4 style ="color:Crimson;"> Lab# 4 </h4>
+    <h5 style ="color:Indigo;"> By Flavio Duran </h5>
+    <h6 style ="color:DarkGreen;"> 1/4/2020 </h6>
+
+    <table border = 7+1px style="background-color:white" </table>
+    <th style ="color:Red;">Best Cars  </th>
+    <th style ="color:Crimson;"> Worst Cars </th>
+    <th style ="color:Crimson;"> Pros </th>
+    <th style ="color:Crimson;"> Cons </th>
+    <th style ="color:Crimson;"> Grade </th>
+    <th style ="color:Crimson;"> Conlusion </th>
+
+    <tr>
+    <td>
+      <ul style="list-style-type:disc">
+       <li style ="color:Teal;"> Toyota Supra MK4 </li>
+       <li style ="color:Yellow;"> Nissan 400z  </li>
+       <li style ="color:LightGreen;"> Lexus ISF </li>
+       <li style ="color:Blue;"> Subaru Brz  </li>
+       <li style ="color:Black;"> Toyota Corolla AE86 Trueno </li>
+       <li style ="color:Azure;"> Nissan Skyline GTR R34 </li>
+       <li style ="color:Purple;"> Nissan 350z </li>
+       <li style ="color:Blue;"> Subaru Impreza Wrx Sti </li>
+       <li style ="color:Gray;"> BMW E46 M3 </li>
+       <li style ="color:Red;"> Honda S2000 </li>
+      </ul>
+    </td>
+    <td>
+      <ol>
+        <li style ="color:Black;"> Lamborghini Aventador </li>
+        <li style ="color:teal;"> Porsche Panamera </li>
+        <li style ="color:Black;"> BMW M4 </li>
+        <li style ="color:Black;"> BMW M5 (2005 forward) </li>
+        <li style ="color:Black;"> Ferrari 458 italia </li>
+        <li style ="color:Black;"> Mclaren 720s </li>
+        <li style ="color:Black;"> Lamborghini Huracan </li>
+        <li style ="color:Black;"> Toyota Supra (BMW Supra) </li>
+        <li style ="color:Black;"> BMW 335i (blanky) </li>
+        <li style ="color:Black;"> Mercedes G Wagon (worst of all) </li>
+      </ol>
+  </td>
+  <td>
+    <ol type = "i">
+      <li>
+        <ul> 400z is the most anticipated car ever </ul>
+      </li>
+      <li style ="color:Black;">
+        <ul> The MK Supra is the fastest v6 ever </ul>
+      </li>
+      <li style ="color:Black;">
+        <ul> The pros speak for them selves</ul>
+        </li>
+  </td>
+  <td>
+    <ol type = "a">
+      <li style="list-style-type:circle">
+        <ul> They're a lot of money </ul>
+      </li>
+      <li style="list-style-type:circle">
+        <ul> Super Cars get beat by civics </ul>
+      </li>
+      <li style="list-style-type:circle">
+        <ul> They devalue really quickly</ul>
+        </li>
+    </td>
+    <td>
+      <ul style="list-style-type=disc">
+        <li style="color:Black"> Super cars </il>
+         <ol style="1">
+           <li style="color:Red"> Lamborghini anything (their tractors are cool?) </il>
+             <li style="color:red"> Mclaren anything (except p1) </il>
+               <li style="color:red"> Ferrar anything (except enzo and classics (before fiat took over)) </il>
+         <ol style>
+        <li style="color:red"> trash </il>
+        </ol> </ol>
+          <li style="color:Green"> Mid cars </il>
+           <ol style="i">
+             <li style="color:Green"> Nissan 400z </il>
+               <li style="color:Green"> Supra Mk4 </il>
+                 <li style="color:Green"> GTR </il>
+                   <li style="color:Blue"> Honda S2K </il>
+           <ol>
+          <li style="color:green"> Amazing </il>
+            </ol> </ol>
+            <li style="color:gold"> Lower end cars </il>
+             <ol style="i">
+               <li style="color:gold"> toyota corolla AE86 </il>
+             <ol>
+            <li style="color:gold"> Legendary </il>
+              </ol> </ol>
+</td>
+              <td>
+                <ol type = "a">
+                  <li style="list-style-type:disc">
+                    <ul style ="color:blue;"> Super cars costs too mcuh to get beat by civics </ul>
+                  </li> </ol>
+                  <ol type = "i">
+                    <li style="list-style-type:circle">
+                      <ul style ="color:Crimson;"> The MK4 supra is the fastest v6 ever </ul>
+                    </li> </ol>
+                    <ol type = "1">
+                      <li style="list-style-type:1">
+                        <ul style ="color:yellow;"> 400z is the gunna be a hit in 2021 </ul>
+                      </li> </ol>
+
+    <td style ="color:Crimson;">  </td>
+    <a href="https://www.apple.com/"> dont click this </a>
+  </td>
+    </body>
+  </html>

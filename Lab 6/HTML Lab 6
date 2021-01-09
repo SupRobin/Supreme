@@ -1,0 +1,109 @@
+<!doctype html>
+  <html>
+    <head>
+      <link rel="icon" type="image/png" href="index2.png" href="image1.png">
+
+      <title> Lab 6 Flavio </title>
+    </head>
+    <body style="background-color:#C3CDE6">
+      <center>
+      <header>
+            <a href="image1.png" alt="this is my banner"> <img src="image1.png"></a>
+      </header>
+    <h1> QCC/CUNY </h1>
+    <h2> Software Eng. Micro-Credential </h2>
+    <h3> Boot camp </h3>
+    <h4> Lab# 6 </h4>
+    <h5> By Flavio Duran </h5>
+    <h6> 1/6/2020 </h6>
+    <h1> <u> What is FAVICON?! </u> </h1>
+        <img src="index.png" width="500px" height="auto"/>
+
+    <table border = 3px style="background-color:lightGray" style="margin-top:10px; margin-left:10px;" />
+      <th style ="color:Teal;"> What is favicon? </th>
+      <th style ="color:Teal;"> how are they created?</th>
+      <th style ="color:Teal;"> How was i able to do this? </th>
+
+      <tr>
+        <td>
+        FAVICON is an amazing way to get <br> art intergrated in any webstie. <br>
+        It breathes life in and gives the sense of <br> what the website <br>
+        will be about and how it differs from others. <br>
+        </td>
+        <td>
+        FAVICON's are created via a binary <br> system which turns on and <br>
+        off the the pixel, as well <br> as turning on the different hues of <br>
+        red, blue, and green, thus creating <br> multiple colors.
+        </td>
+        <td>
+          The FAVICON that i created i did so by <br> carefully choosing an image that <br>
+          that i wanted to create and <br> took a pixelated mental note <br> and turned mixed three
+          colors to create orange, <br> purple, red, and blue thus helping <br> my be more
+          creative. There <br> is endless possiblities when you use FAVICON <br> because of
+          the fact of being able to use <br> 255 by 255 pixels and about 10 million colors!.
+        </td>
+        </tr>
+      </center>
+        <h1> <strong> <u> The code! </u> </strong> </h3>
+        <li> Turning multiple pixels on and off seem easy but it's a long arduis process <br>
+          It took me about 1.5 hours to compelete this work as you might be able to tell <br>
+          by the code provided here but hard work pays off. I was able to create this <br>
+          by using the hexadecimal triple 111 approach thus making it easier to access <br>
+          a greater part of the color wheel.
+        </li>
+        <h1> <strong> <u> <i> The Binary! </i> </u> </strong> </h1>
+            23
+            23
+            0C
+            EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE
+            EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE
+            EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE
+            EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE
+            EEE EEE EEE EEE EEE EEE 000 000 000 EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE
+            EEE EEE EEE EEE EEE 000 000 000 EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE 000 000 F00 000
+            000 EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE 000 000 F00 000 000
+            000 000 000 000 000 000 000 000 000 000 000 000 F00 000 EEE EEE EEE EEE EEE EEE EEE EEE
+            EEE EEE EEE EEE EEE EEE EEE 000 F71 000 000 F00 000 F71 F71 F71 F71 F71 F71 F71 F71 F71 F71 000
+            000 F00 000 000 EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE 000 F71 F71 F71 000
+            000 F00 000 F71 F71 F71 F71 F71 F71 000 F71 F71 F71 F71 000 000 F71 000 EEE EEE EEE EEE EEE EEE EEE
+            EEE EEE EEE EEE EEE 000  F71 F71 F71 000 F00 000 F71 F71 F71 F71 F71 F71 F71 F71 000  F71 F71 F71 F71000
+            F71 000 EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE 000 F71 F71 F71 000 F00000F71 F71 F71F71 F71
+            F71F71 F71 F71 F71 F71 F71 F71 F71 F71 000 000 EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE 000 F71
+            F71 F71 F00 000 F71 F71 F71 F71 F71 F71 F71 F71 F71F71 F71 F71F71 F71 F71F71 F71 000 EEE EEE EEE EEE EEE
+            EEE EEE EEE EEE EEE 000 F71 F71 F71000 000 F71 F71 F71 000 F71 F71 F71 F71 F71 F71 F71 000 F71 F71 F71 F71
+            EEE F71 000 EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE 000 F71 F71 F71 000  F71 F71 F71000 F71 F71 F71
+            F71 F71 F71 F71 F71 000 F71 EEE EEE EEE  F71 F71 F71 000  EEE EEE EEE EEE EEE EEE EEE EEE EEE 000 F71
+            F71 F71 000 F71 F71 F71 000 F71 EEE EEE EEE F71 EEE EEE 000 FCA 000 F71 F71 F71 F71 F71 F71 000 EEE EEE
+            EEE EEE EEE EEE EEE EEE 000 F71 F71 F71 F71 000 F71 F71 F71 000 F71 F71 F71  F71 000 F71 F71 000 FCA 000
+            F71 F71 F71 F71 F71 F71 000 EEE EEE EEE EEE EEE EEE EEE EEE 000 F71 F71 F71 F71 000 F71 F71 000  F71 F71 F71
+            F71 000 FCA F71 000 FCA FCA FCA 000 F71 F71 000 F71 F71 000 EEE EEE EEE EEE EEE EEE EEE EEE 000
+            F71 F71 F71 F71 000 F71 F71 000 F71 F71 F71 000 FCA FCA F71 000 FCA FCA 000 000 000 F71 F71 000 F71 000
+            EEE EEE EEE EEE EEE EEE EEE EEE 000 F71 F71 F71 F71 000 F71 000 000 F71  F71 000 000 000 000 000 FCA
+            FCA FCA 000 EEE 000 F71 F71 000 000 EEE EEE EEE EEE EEE EEE EEE EEE EEE 000 F71 F71 F71 F71000 F71 000
+            000 000 000 EEE 000 000 FCA 000 FCA FCA FCA 40B EEE 000 F71 F71 000 000 EEE EEE EEE EEE EEE
+            EEE EEE EEE EEE 000 F71 F71 F71 F71 000 000 000 000 00A F71 EEE EEE 40B FCA FCA FCA FCA FCA
+            00F EEE 000  F71 000 000 000 000 000 000  EEE EEE EEE EEE EEE EEE 000 F71 F71 F71 F71 000 000
+            F71 000 00A F71 EEE 40b 00F FCA FCA FCA FCA FCA 40B FCA 000 F71 000000 55A 55A 55A 55A 000 EEE
+            EEE EEE EEE EEE 000 F71 F71 F71 F71 000 EEE 000 000 00A  F71 FCA 40B 40B FCA FCA FCA FCA FCA
+            FCA FCA 000 000 F71 000 55A 55A 55A 55A 000 EEE EEE  EEE EEE EEE 000 F71  F71 F71 F71 000 EEE
+            000 000 F71 F71  FCA FCA FCA FCA FCA FCA FCA FCAFCA FCA 000 F71 000 55A 55A 55A 66D 000 EEE
+            EEE EEE EEE EEE EEE 000 F71 F71 F71 F71 000 000 F71 000 000 F71 F71 FCA FCA FCA FCA FCAFCA
+            FCA FCA 000 000  F71 000 55A 55A 55A000 EEE EEE EEE EEE EEE EEE EEE 000 F71 F71 F71 F71 000
+            F71 F71 EEE 000 000 F71 FCA FCA FCA FCA FCA FCA FCA 000000 F71 000 55A 55A 55A 000 EEE EEE
+            EEE EEE EEE EEE EEE EEE 000 F71 F71 F71 F71 000 F71 000EEE 000 F71 000 FCA FCA FCA FCA FCA
+            000000000F71 000 55A 55A 55A 000000 EEE EEE EEE EEE EEE EEE EEE EEE 000 F71 F71 F71 F71 F71
+            000 F71 F71 000F71 F71 EEEEEEEEEEEE F00 EEE F71 F71 000 55A55A 55A 55A  000 EEE EEE EEE EEE
+            EEE EEE EEE EEE EEE 000 F71 F71 F71 F71 F71 F71 000 EEE EEE 000 FCA FCA EEE EEE F00 F00 F00 000
+            000 55A 55A 55A 55A 000 F71 000 EEE EEE EEE EEE EEE EEE EEE EEE 000 F71 F71 F71 F71 F71 F71 F71
+            000 000 EEE EEE EEE EEE F00 F00 000 EEE F00 55A 55A 55A 55A 000 F71 F71 F71 000 EEE EEE EEE
+            EEE EEE EEE EEE 000 F71 F71 F71 F71 F71 F71 F71 000 FAA FAA FAA FAA F00 F00 FAA 000000 FCA
+            FCA  750 750 750000 F71  F71 F71 F71 000 EEE EEE EEE EEE EEE EEE 000 F71 F71 F71 F71 F71 F71 000
+            000 000 FCC FCC FCC FCC FCC 000 000 000 000 FCC FCA 000 000 000 000 F71 F71 F71 F71 000
+            EEE EEE EEE EEE  EEE 000 F71 F71 F71 F71 F71 F71 F71 F71 F71 000 FCC FCC FCC 000 FCC FCC FCC
+            FCC FCC 000 0000 00000 F71 F71 F71 F71 F71 F71 000EEEEEEEEEEEE 000 F71 F71 F71 F71 F71 F71 F71
+            F71 F71 F71000 FCC 000 FCC FCC FCC FCC FCC 000 000 000 00 0 000 F71 F71 F71 F71 F71 F71 F71
+            000000000000000000000000000000000000000000000000000000000000000000000000
+            000000000000000000000000000000000
+          </ol>
+    </body>
+  </html>
