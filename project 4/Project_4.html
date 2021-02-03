@@ -1,0 +1,29 @@
+<!doctype html>
+  <html>
+    <head>
+      <title> Lab 15 </title>
+      <link href = "project_4.css" rel="stylesheet"/>
+      <script src="../JQLibrary.js" type="text/javascript"> </script>
+      <script src="project_4.js" type="text/javascript"> </script>
+    </head>
+    <body>
+        <h1> Click it if you can. </h1>
+          <div class = "box" id="div1" onclick="youLose()">
+            only in the box ofc.
+            <img id ="image1" src = "youLose.png">
+            <img id ="image2" src = "youWin.png">
+              <div id=circle onclick="youWin"> </div>
+            </div>
+    <script>
+
+          let win = document.getElementById('div1');
+          document.getElementById('div1').onclick = function(){
+            image1.classList.toggle('fade');
+          }
+          let lose = document.getElementById('circle');
+          document.getElementById('circle').onclick = function(){
+            image2.classList.toggle('fade');}
+
+      </script>
+      </body>
+  </html>
